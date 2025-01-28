@@ -63,3 +63,41 @@ commitment. Shifting perspective like this takes just as much energy as switchin
 
 * Resilience and adaptability don't come easily or naturally to everyone; the approach laid out here can help transform
 the anger and self-doubt associated with failure into excitement about new possibilities.
+
+---
+
+<h3>Nine Things Successful People Do Differently</h3>
+<i>by Heidi Grant</i>
+
+`Key point: It's not who/what you are that makes you successful or not; it's what you do.`
+
+* Why do we reach some goals but not others?
+
+1. <b>Get Specific</b>: don't have vague goals (e.g., "lose weight"). If you instead said "lose 5lbs", then you know what
+success looks like. Other specific actions could be "be in bed by 10pm on week-nights" rather than "sleep more". You
+unambiguously know if you have done these things.
+2. <b>Seize the moment to act on your goals</b>: It's easy to let time slip away; decide <i>when and where</i> you 
+will take action, ideally in advance. "On Monday, Wednesday, Friday, I'll go for a 30-minute walk in the morning."
+3. <b>Know exactly how far you have left to go</b>: Monitor progress honestly and regularly. Adjust behavior as necessary.
+4. <b>Be a realistic optimist</b>: Be positive, but don't underestimate difficulties in achieving goals. Goals worth achieving
+typically require time, planning, effort, and persistence. If you think it'll be easy and effortless, you're far more
+likely to give up and fail.
+5. <b>Focus on getting better rather than being good</b>: You <i>can</i> change and learn new skills. Believing in your ability
+to reach your goals is important, but so is believing you can <i>get</i> the ability. Many people believe that intelligence,
+personality, and abilities are fixed -- but they are not.
+6. <b>Have grit</b>: Grit is a willingness to commit to long-term goals and to persist in the face of difficulty.
+People lacking in grit often believe that they just don't have the innate abilities successful people have -- but they are wrong.
+Effort, planning, persistence, and good strategies are what it really takes to succeed.
+7. <b>Build your willpower muscle</b>: Self-control is like a muscle; if it doesn't get much exercise, it is weak. If it has
+regular workouts, then it gets stronger. Build willpower by doing things you'd rather not do. Do them, and don't give in to the
+easy route. Have a plan to deal with troubles ("if I have a craving for a snack, I will eat one fresh piece of fruit").
+8. <b>Don't tempt fate</b>: Willpower is limited, no matter how strong it is. Don't take on a bunch of challenging new tasks
+all at once (e.g., quitting smoking and starting a strict diet at the same time). Don't go to a bar with buddies if you're trying
+to avoid drinking.
+9. <b>Focus on what you <i>will</i> do, not what you <i>won't</i> do</b>: Plan on how you will replace your bad habits with good ones,
+rather than focusing only on the bad habits themselves. Suppression (e.g., "don't think about white bears") makes it even more active
+in your mind. Thinking of bad habits constantly strengthens them rather than breaks them. What positive things will you do rather
+than the negative things you'd like to replace? Think about those.
+
+---
+
