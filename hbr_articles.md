@@ -96,8 +96,13 @@ all at once (e.g., quitting smoking and starting a strict diet at the same time)
 to avoid drinking.
 9. <b>Focus on what you <i>will</i> do, not what you <i>won't</i> do</b>: Plan on how you will replace your bad habits with good ones,
 rather than focusing only on the bad habits themselves. Suppression (e.g., "don't think about white bears") makes it even more active
-in your mind. Thinking of bad habits constantly strengthens them rather than breaks them. What positive things will you do rather
+in your mind. Constantly thinking of avoiding bad habits strengthens them rather than breaking them. What positive things will you do rather
 than the negative things you'd like to replace? Think about those.
 
 ---
+<h3>The Power of Small Wins</h3>
+<i>by Teresa M. Amabile and Steven J. Kramer</i>
 
+`Key point: `
+
+* 
