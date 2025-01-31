@@ -103,6 +103,62 @@ than the negative things you'd like to replace? Think about those.
 <h3>The Power of Small Wins</h3>
 <i>by Teresa M. Amabile and Steven J. Kramer</i>
 
-`Key point: `
 
-* 
+`Key point: People are most satisfied with their jobs (and therefore most motivated) when those jobs give them the
+opportunity to experience achievement.`
+
+
+* Of all things that boost emotions, motivation, and perceptions during a work day, the single most important is making
+progress in <i>meaningful</i> work. The more likely people experience that sense of progress, the more likely they are to be
+creatively productive in the long-term.
+* Everyday progress -- even a small win -- can make all the difference in how someone feels and performs
+* In the realm of knowledge work, people are more creative when their inner work lives are positive -- when they feel happy,
+are intrinsically motivated by the work itself, and have positive perceptions of their colleagues and the organization. 
+* 95% of managers from a survey did not rank supporting progress as the number one way to elevate employee promotion,
+but that is what the authors have found to be most important. The vast majority of managers ranked supporting progress
+in dead last place among 5 choices (support progress, recognition, incentives, interpersonal support, and clear goals).
+  * Recognition for good work was ranked first for motivating workers and making them happy.
+
+
+* The most common event triggering a "best day" was any progress made in work by an individual or team. The most common
+event triggering a "worst day" was a setback.
+* Setbacks can lead a person to feel generally apathetic and disinclined to do the work at all
+
+
+* <i>Perceptions</i> differed on progress days and setbacks days as well. On progress days, people perceived more positive
+challenges in their work, and saw their teams as more mutually supportive and reported more positive interactions between 
+the teams and their supervisors. On setback days, participants perceived both their teams and their supervisors as less
+supportive.
+  * (Note that these are just correlations, and do not prove causality); it likely goes both ways.
+  * We're not sure if the inner work life changes are a result of progress and setbacks, or the other way around.
+
+
+* We do know that more positive perceptions, a sense of accomplishment, satisfaction, happiness, and even elation
+followed progress. Likewise, deteriorating perceptions, frustration, and sadness followed setbacks.
+
+
+* <b>Wins do not have to be large to make a difference; many of the progress events the research participants reported
+represented only minor steps forward, yet they often evoked outsize positive reactions.</b> 
+  * Across all types of events the participants reported, a notable proportion (28%) of incidents that had a minor impact
+  on the project had a major impact on people's feelings about it.
+
+
+* Progress events that often go unnoticed are critical to the overall performance of organizations because inner work
+life has such a potent effect on creativity and productivity, and because small and consistent steps forward by many people
+can accumulate into excellent execution.
+* The flip side of this is that small losses or setbacks can have an extremely negative effect on inner work life.
+* <b>Negative events can have a more powerful impact than positive ones, so it is especially important for managers
+to minimize daily hassles.</b>
+
+
+* The work must be <i>meaningful</i> to you, otherwise it does not have the same impact.
+* If tasks feel irrelevant, then even working hard to get things done can leave you feeling demotivated, devalued,
+and frustrated.
+* Managers can make sure that their employees know just how their work is contributing, and therefore why it is important.
+  * <b>Work can be "stripped" of its meaning when:
+  	1. employees' ideas are ignored, thus making that person feel like their contributions are not meaningful. 
+    2. employees' sense of ownership in their work is destroyed by frequently and abruptly reassigning them to another project,
+    and now they cannot see the other project through to the end.
+    3. Managers send the message that the work employees are doing will never see the light of day
+    4. Managers neglect to inform employees of unexpected changes in a customer's priorities.</b>
+
