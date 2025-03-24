@@ -162,3 +162,24 @@ and frustrated.
     3. Managers send the message that the work employees are doing will never see the light of day
     4. Managers neglect to inform employees of unexpected changes in a customer's priorities.</b>
 
+
+* Good managers act as a resource for employees; they do not <i>check up</i> like a micromanager, they <i>check 
+  in</i> to see if they can offer help.
+
+
+* The most important implication of the progress principle:
+  * Managers who support people and their daily progress improve the inner work lives of their employees as well as 
+    the organization's long-term performance.
+  * The dark side: negative feedback loops. If managers fail to support progress and the people trying to make it, 
+    inner work life suffers and so does performance. Degraded performance further undermines inner work life.
+
+
+* Managers who show basic respect and consideration for employees can focus on supporting the work itself; they do 
+  not need to worry about complicated incentive schemes or psychological manipulation to motivate employees.
+* Effective managers set the positive feedback loop in motion. Focus on managing progress rather than the management 
+  of people. 
+
+
+* Managers who facilitate steady progress in meaningful work, make that progress salient to employees, and treat 
+  employees well have the best chance of a high performance team. <b>Their superior work will contribute to 
+  organizational success — and they will love their jobs.</b>
