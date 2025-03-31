@@ -1,3 +1,177 @@
+<h3>Blue Ocean Strategy</h3>
+<i>by W. Chan Kim and Renée Mauborgne</i>
+`Key point: create uncontested market space (blue oceans) rather than competing in existing, highly competitve 
+markets (red oceans).`
+
+* This article opens up describing Cirque, a growing circus company, within a larger industry that has been on the 
+  decline for decades.
+  * They did so by creating uncontested market space that made the competition irrelevant, NOT by operating within 
+    the confines of the existing industry or by stealing customers from competitors.
+  * It pulled in a whole new group of customers who were traditionally non-customers of the industry. These 
+    customers were adults and corporate clients who had turned to opera, theater, and ballet, and were prepared to 
+    pay several times more than the price of a conventional circus ticket.
+
+* The bigger idea here is that there are two distinct kinds of space in the business universe:
+
+
+1. <b>Red oceans</b>
+2. <b>Blue oceans</b>
+
+
+* Red oceans represent all the industries in existence today—the known market space.
+  * These oceans have well-defined and accepted industry boundaries; the competitive rules of the game are well 
+    understood. Companies try to outperform their rivals in order to grab a greater share of existing demand. As the 
+    space gets more crowded, prospects for profits and growth are reduced.
+    * Products turn into <b>commodities</b> and increasing competition turns the water bloody.
+* Blue oceans denote all the industries not in existence today—the unknown market space, untainted by competition. 
+  Demand is created rather than fought over. There is ample opportunity for growth that is both profitable and rapid.
+  * There are 2 ways to create blue oceans. Companies can give rise to completely new industries, like eBay did with 
+    online auctions. In most cases, a blue ocean is created from within a red ocean by altering the boundaries of an 
+    existing industry. This is what Cirque did by breaking through the boundary traditionally separating circus and 
+    theater.
+
+* The logic behind blue ocean strategy parts with traditional models focused on competing in existing market space. 
+
+
+* Look back 100 years and ask yourself which industries known today were then unknown:
+1. Automotive
+2. Music recording
+3. Aviation
+4. Petrochemicals
+5. Pharmaceuticals
+6. Management Consulting
+
+* Now think back 30 years with the same question:
+1. Mutual funds
+2. Mobile phones
+3. E-commerce
+4. Express package delivery
+5. Snowboards
+
+* Just 30 years ago, none of these industries existed in a meaningful way. Now they are ubiquitous.
+
+* <b>Now think forward 20 years. How many industries that are unknown today will exist then? Put simply, there will 
+  be many.</b>
+  * Companies will continue to create new industries and re-create existing ones.
+
+* As concrete evidence of this change, take a look at the NAICS (North American Industry Classification System), 
+  which is updated every 5 years to reflect any changes. The next scheduled update is in 2027.
+
+* Corporate strategy is heavily influenced by its roots in military strategy, which is in part why it has a dramatic 
+  imbalance in favor of red oceans.
+  * The language is heavily imbued with military references—chief executive "officers", "headquarters", "troops" on 
+    the "front lines". Strategy is all about red ocean competition when described this way. It is about confronting 
+    an opponent and driving him off a battlefield of limited territory. 
+  * In contrast, blue ocean strategy is about creating new land, not dividing up existing land.
+  * Red ocean strategy means accepting the key constraining factors of war—limited terrain and the need to beat an 
+    enemy to succeed. It also means denying the distinctive strength of the business world—the capacity to create 
+    new market space that is uncontested.
+
+* Strategy is often intertwined with the language of competition: "competitive advantage". With this view, companies 
+  are often driven to outperform rivals and capture greater shares of existing market space.
+* A superior strategy is to find and develop markets where there is little or no competition—blue oceans.
+
+
+* Cutting-edge technology is sometimes involved in the creation of blue oceans, but it is not a defining feature of 
+  them. Underlying technology is often already in existence. Sometimes technology even needs to be simplified to 
+  link technology with what buyers value.
+* Incumbents often create blue oceans, and usually with their core businesses (AWS for example).
+
+* The article explains blue ocean creation in 3 industries (automobiles, computers, and entertainment)
+  * There are 3 questions asked for each example: new entrant or incumbent, driven by technology pioneering or value 
+    pioneering, and was the industry attractive or unattractive at the time of creation?
+* Blue oceans are right next to you in every industry.
+
+
+* Company and industry are the wrong units of analysis for analyzing how and why blue oceans are created.
+* There is no consistently excellent company—the same company can be brilliant at one time and completely wrong at 
+  another.
+* Every company rises and falls over time. Likewise, there is no perpetually excellent industry; relative 
+  attractiveness is driven largely by the creation of blue oceans from within them.
+* Large R&D budgets are not the key to creating new market space. The key is making the right strategic moves.
+* The creation of blue oceans is a product of strategy and as such is very much a product of managerial action.
+
+
+* There are several common characteristics across the strategic moves that create blue oceans.
+  * Creators of blue oceans never use the competition as a benchmark. Instead, they make it irrelevant by creating a 
+    leap in value for both buyers and the company itself.
+  * Perhaps the most important feature of blue ocean strategy: rejecting the idea that a trade-off exists between 
+    value and cost. According to this, companies can either create greater value for customers at a higher cost or 
+    create reasonable value at a lower cost. In other words, strategy is essentially a choice between 
+    differentiation and low cost. With blue oceans, however, the evidence shows that successful companies pursue 
+    differentiation and low cost simultaneously.
+
+
+* Going back to the Cirque circus example—rather than competing with other circus companies and paying more for a 
+  slightly better lion tamer or better-known clown (which did not substantially rise revenues), they redefined the 
+  problem to offer people the fun and thrill of the circus <i>and</i> the intellectual sophistication and artistic 
+  richness of the theater. They also realized that the animal portion of the circus is quite costly, and many people 
+  were concerned with the treatment of the animals and did not want to see them due to ethical concerns of 
+  exhibiting them.
+* Cirque was able to extract the important elements of the circus, and enhance others by adding the theater aspect. 
+  They offer the best of both circus and theater. And by eliminating many of the most expensive elements of the 
+  circus, it dramatically reduced the cost structure, achieving both differentiation and low cost.
+
+
+* By driving down costs while simultaneously driving up value for customers, a company can achieve a leap in value 
+  for both itself and its customers.
+* <b>A rejection of the trade-off between low cost and differentiation implies a fundamental change in strategic 
+  mindset</b>—the authors cannot emphasize enough how fundamental a shift this is. 
+
+
+* The structuralist view (environmental determinism) vs. reconstructionist view:
+  * The structuralist view states that companies and managers are largely at the mercy of economic forces greater 
+    than themselves.
+  * By contrast, blue ocean strategy is based on a worldview in which market boundaries and industries can be 
+    reconstructed by the actions and beliefs of industry players. This is the reconstructionist view.
+
+
+* The Cirque du Soleil founders clearly did not feel constrained to act within the confines of their industry.
+* The magic of Cirque was created through a reconstruction of elements drawn from all of the alternatives (theater, 
+  opera, ballet, circus, etc.)
+  * This new blue ocean from within the red oceans of theater and circus has uncontested market space that doesn't 
+    yet have a name.
+
+
+* Barriers to imitation: companies that create blue oceans usually reap the benefits without credible challenges for 
+  10 to 15 years, as was the case with Cirque du Soleil, Home Depot, FedEx, Southwest Airlines, CNN, and AWS.
+  * Blue ocean strategy creates considerable economic and cognitive barriers to imitation.
+  * Because blue ocean creators immediately attract customers in large volumes, they can generate scale economies 
+    very rapidly, putting would-be imitators at an immediate and continuing cost disadvantage.
+  * For example, the huge economies of scale in purchasing that WalMart enjoys have significantly discouraged other 
+    companies from imitating its business model.
+  * There are also network externalities: the large number of users on eBay makes it a more attractive auction site 
+    for both sellers and buyers, giving users few incentives to go elsewhere.
+  * Organization bureaucracy and politics can slow adopting new or changing existing processes
+
+
+* Parallels of Ford Model T and Cirque du Soleil:
+  * Auto industry was small and unattractive
+  * More than 500 automakers turning out handmade luxury cars that were enormously unpopular except for with the very 
+    rich
+  * Anti-car activists tore up roads and vandalized cars
+  * Ford created a car that addressed the main concerns: bad roads (especially in rain/snow or mud), expensive and 
+    difficult repairs, and negative sentiment to the rich who owned cars.
+  * Ford made the competition irrelevant. Ford built a car for everyday use—easy to use and fix, easy to learn how 
+    to drive, doesn't get stuck easily. Ford compared to horse-drawn carriages as a price point rather than other 
+    autos. 
+    * <b>Ford converted buyers of horse-drawn carriages into car buyers by getting the price lower than that of a 
+      horse-drawn carriage ($290 for the car, $400 for the horse), just as Cirque turned theatergoers into 
+      circus goers.</b>
+  * In around 15 years, the majority of American households had a car.
+  * Ford offered the mass of buyers a leap in value, and it also achieved the lowest cost structure in the industry.
+  * The highly standardized cars got rid of the customized manufacturing process with highly skilled labor, and the 
+    assembly line allowed unskilled laborers to work quickly and efficiently on one simple task. This drastically 
+    sped up the manufacturing process by 5x.
+
+
+* Competing in red oceans dominates the field of strategy in theory and practice, even as businesses' need to create 
+  blue oceans intensifies.
+* Blue ocean strategists have always existed, but their strategies have been largely unconscious.
+
+---
+
+
 <h3>Rebounding from Career Setbacks</h3>
 <i>by Mitchell Lee Marks, Philip Mirvis, and Ron Ashkenas</i>
 
@@ -183,3 +357,5 @@ and frustrated.
 * Managers who facilitate steady progress in meaningful work, make that progress salient to employees, and treat 
   employees well have the best chance of a high performance team. <b>Their superior work will contribute to 
   organizational success — and they will love their jobs.</b>
+
+---
