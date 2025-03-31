@@ -1,9 +1,12 @@
 <h3>Blue Ocean Strategy</h3>
 <i>by W. Chan Kim and Renée Mauborgne</i>
+
 `Key point: create uncontested market space (blue oceans) rather than competing in existing, highly competitve 
 markets (red oceans).`
 
-* This article opens up describing Cirque, a growing circus company, within a larger industry that has been on the 
+
+* This article opens up describing Cirque du Soleil, a growing circus company, within a larger industry that has 
+  been on the 
   decline for decades.
   * They did so by creating uncontested market space that made the competition irrelevant, NOT by operating within 
     the confines of the existing industry or by stealing customers from competitors.
@@ -158,11 +161,11 @@ markets (red oceans).`
     * <b>Ford converted buyers of horse-drawn carriages into car buyers by getting the price lower than that of a 
       horse-drawn carriage ($290 for the car, $400 for the horse), just as Cirque turned theatergoers into 
       circus goers.</b>
-  * In around 15 years, the majority of American households had a car.
+  * After around 15 years, the majority of American households had a car.
   * Ford offered the mass of buyers a leap in value, and it also achieved the lowest cost structure in the industry.
   * The highly standardized cars got rid of the customized manufacturing process with highly skilled labor, and the 
     assembly line allowed unskilled laborers to work quickly and efficiently on one simple task. This drastically 
-    sped up the manufacturing process by 5x.
+    sped up the manufacturing process by 5x (21 days vs. 4 days), and eventually improved even further.
 
 
 * Competing in red oceans dominates the field of strategy in theory and practice, even as businesses' need to create 
